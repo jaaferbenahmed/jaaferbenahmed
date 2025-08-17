@@ -1,16 +1,48 @@
-## Hi there 👋
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Jaafer</h1>
+<h3 align="center">Pre-Engineering Student @ INSAT | AI & Robotics Enthusiast</h3>
 
-<!--
-**jaaferbenahmed/jaaferbenahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🎓 Pre-Engineering student specializing in **Instrumentation & Maintenance (IMI)**  
+- 💻 Passionate about **Python, C, and Machine Learning**  
+- 🤖 Exploring **Robotics, Automation, and AI Applications**  
+- 🌱 Currently learning: **Data Science tools (NumPy, Pandas, Matplotlib)** and **Machine Learning (Andrew Ng)**  
+- ⚡ Fun fact: I love solving problems and turning ideas into projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+**Languages:**  
+`Python` • `C` • `C++`  
+
+**Tools & Frameworks:**  
+`Git` • `GitHub` • `VS Code`  
+
+**Learning:**  
+`NumPy` • `Pandas` • `Matplotlib` • `Scikit-learn` • `Robotics`  
+
+---
+
+## 🚀 Projects
+Here are some of the projects I’m working on and learning from:
+
+- 📊 **[Glucotrack](https://github.com/your-username/glucotrack)** – A blood sugar tracking app (CS50P final project)  
+- 🤖 **Autonomous Robot (in progress)** – For ENIS Robocup competition  
+- 🛠️ More projects coming soon…  
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+- 💼 [LinkedIn]([https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/ben-ahmed-jaafer-a2504a322/))  
+- 📧 Email: jaafarbenahmed35@gmai.com  
