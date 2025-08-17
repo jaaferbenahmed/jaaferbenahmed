@@ -28,7 +28,7 @@
 ## 🚀 Projects
 Here are some of the projects I’m working on and learning from:
 
-- 📊 **[Glucotrack](https://github.com/jaaferbenahmed/GlucoTrack)** – A blood sugar tracking app (CS50P final project)  
+- 📊 **[Glucotrack](https://github.com/jaaferbenahmed/Glucotrack)** – A blood sugar tracking app (CS50P final project)  
 - 🤖 **Autonomous Robot (in progress)** – For ENIS Robocup competition  
 - 🛠️ More projects coming soon…  
 
