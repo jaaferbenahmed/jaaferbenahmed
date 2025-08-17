@@ -44,5 +44,5 @@ Here are some of the projects I’m working on and learning from:
 ---
 
 ## 🌐 Connect with Me
-- 💼 [LinkedIn]([https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/ben-ahmed-jaafer-a2504a322/))  
-- 📧 Email: jaafarbenahmed35@gmai.com  
+- 💼 [LinkedIn]([https://linkedin.com/in/ben-ahmed-jaafer-a2504a322/])  
+- 📧 Email: jaafarbenahmed35@gmail.com  
