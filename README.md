@@ -8,8 +8,7 @@
 - 🎓 Pre-Engineering student specializing in **Instrumentation & Industrial Maintenance (IMI)**  
 - 💻 Passionate about **Python, C, and Machine Learning**  
 - 🤖 Exploring **Robotics, Automation, and AI Applications**  
-- 🌱 Currently learning: **Data Science tools (NumPy, Pandas, Matplotlib)** and **Machine Learning (Andrew Ng)**  
-- ⚡ Fun fact: I love solving problems and turning ideas into projects
+
 
 ---
 
