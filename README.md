@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Pre-Engineering student specializing in **Instrumentation & Maintenance (IMI)**  
+- 🎓 Pre-Engineering student specializing in **Instrumentation & Industrial Maintenance (IMI)**  
 - 💻 Passionate about **Python, C, and Machine Learning**  
 - 🤖 Exploring **Robotics, Automation, and AI Applications**  
 - 🌱 Currently learning: **Data Science tools (NumPy, Pandas, Matplotlib)** and **Machine Learning (Andrew Ng)**  
@@ -44,5 +44,5 @@ Here are some of the projects I’m working on and learning from:
 ---
 
 ## 🌐 Connect with Me
-- 💼 [LinkedIn]([https://linkedin.com/in/ben-ahmed-jaafer-a2504a322/])  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ben-ahmed-jaafer/)  
 - 📧 Email: jaafarbenahmed35@gmail.com  
